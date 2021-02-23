@@ -45,7 +45,7 @@ npm test
 
 Questions
 
-If you have any questions please post them to my GitHub at https://github.com/mslnance or click here to e-mail me.
+If you have any questions please post them to my GitHub at https://github.com/pilar122 or click here to e-mail me.
 
 Screenshot
 ![Screen Shot 2021-02-22 at 6 21 32 PM](https://user-images.githubusercontent.com/71223784/108791476-6650f000-753c-11eb-8525-ed6950758095.png)
