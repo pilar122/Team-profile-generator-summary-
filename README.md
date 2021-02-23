@@ -2,34 +2,25 @@
 
 Module 10 Challenge : Object-Oriented Programming
 
-Description
+Description: 
 
 This challenge was to create a Node.js command application that takes in information about employees that your team is comprised of and build and generate and HTML page using that information.
 
-Installation
+Installation:
 
-To install necessary dependencies, run the following command:
-npm i
+To install necessary dependencies run npm i
 
-Usage
+Usage:
 
-Once you generate the team.html file you can manually edit it to add more detail or remove unwanted information
+Once you generate the team.html file you can edit it 
 
-License
-
-None
-
-Contributing
-
-Please do not contribute to this Repo
-
-Tests
+Tests:
 
 npm test
 
-Questions
+Questions:
 
-If you have any questions please post them to my GitHub at https://github.com/pilar122 or click here to e-mail me.
+If you have any questions please redirect them to my GitHub at https://github.com/pilar122 
 
 Screenshot
 ![Screen Shot 2021-02-22 at 6 21 32 PM](https://user-images.githubusercontent.com/71223784/108791476-6650f000-753c-11eb-8525-ed6950758095.png)
